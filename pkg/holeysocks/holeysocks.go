@@ -60,7 +60,7 @@ func ForwardService(config MainConfig) error {
 	if err != nil {
 		return fmt.Errorf("unable to bind on remote's port: %s", err)
 	}
-	defer remoteListener.Close()
+	//defer remoteListener.Close()
 
 	// Create a net.Conn to the remote port and wait for a connection
 	socksClient, err := remoteListener.Accept()

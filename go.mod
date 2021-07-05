@@ -1,4 +1,4 @@
-module github.com/MidnightSeer/holeysocks
+module github.com/MidnightSeer/holeysmokes
 
 go 1.16
 

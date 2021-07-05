@@ -1,5 +1,4 @@
-package holeysocks
-
+package holeysmokes
 import (
 	"fmt"
 

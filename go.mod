@@ -1,4 +1,4 @@
-module github.com/audibleblink/holeysocks
+module github.com/MidnightSeer/holeysocks
 
 go 1.16
 
